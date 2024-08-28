@@ -1,4 +1,4 @@
-# footballmatch_prediction
+# FootballMatch_Prediction
 🇮🇹 <br>
 Un progetto personale sulla predizione di possibili eventi calcistici basato sui dati storici delle partite.<br>
 La predizione è disponibile al seguente [link](https://marcocartu.pythonanywhere.com/).<br>
