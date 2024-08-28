@@ -6,5 +6,5 @@ Ci tengo a ringraziare i miei amici [Anthony](https://github.com/tonyfant) e [Da
 
 🇬🇧 
 A personal project on predicting football events based on historical match data. 
-The prediction is available at the following[link](https://marcocartu.pythonanywhere.com/).
+The prediction is available at the following [link](https://marcocartu.pythonanywhere.com/).
 I would like to thank my friends [Anthony](https://github.com/tonyfant) and [Davide](https://github.com/DavidePicc) for helping me with a bug encountered during the hosting process.
